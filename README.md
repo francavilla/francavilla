@@ -10,5 +10,5 @@ You can click the Preview link to take a look at your changes.
 --->
 Hi,I'm OldMan and I'm a Scrum/Agile passionate developer
 I'm interested in .NET Core 3 and Core 5 development technologies, testing methodologies, CI/CD DevOps, software best-practises,SOLID,Clean Architectures,Clean Code,Safe Coding,....
-I'm looking to collaborate on software developing, primary with .NET Core projects.
+I'm looking to collaborate on open source software development, primary with .NET Core projects.
 You can reach me @ antonio.francavilla@gmail.com
